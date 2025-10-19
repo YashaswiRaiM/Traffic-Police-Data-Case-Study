@@ -73,5 +73,3 @@ Perform correlation and bias detection
 Yashaswi Rai
 LinkedIn:https://www.linkedin.com/in/yashaswi-rai-m-50069b357/
 Email: raiyashaswi9@gmail.com
-BCA Graduate | Aspiring Data Analyst / ML Engineer
-📧 [Optional: Add your email or LinkedIn link]
