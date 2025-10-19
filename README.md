@@ -70,6 +70,8 @@ Perform correlation and bias detection
 
 # Author
 
-Yashaswi Rai
+Yashaswi Rai M
+
 LinkedIn:https://www.linkedin.com/in/yashaswi-rai-m-50069b357/
+
 Email: raiyashaswi9@gmail.com
